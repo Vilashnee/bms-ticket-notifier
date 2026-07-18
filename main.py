@@ -552,7 +552,7 @@ def main():
         date_list = [""]
 
     print(f"  Event: {event_code}  Region: {region_code}  "
-          f"Dates: {date_list}")
+          f"Dates: {date_list}  Theatre Filter: '{CONFIG['theatre']}'")
 
     # Fetch data for each date
     all_shows = []
@@ -608,6 +608,10 @@ def main():
     else:
         print("  ✅ No changes since last check.")
 
+    # Always send a check-in email regardless of changes
+    checkin_msg = f"BMS Checker ran successfully - {len(filtered)} shows found"
+    send_email(checkin_msg, [], filtered, movie_info)
+
     # Print current status
     print(f"\n  Current status ({len(filtered)} shows):")
     for s in filtered:
@@ -617,6 +621,10 @@ def main():
         )
         fmt = f"|{s.screen_attr}" if s.screen_attr else ""
         print(f"    {s.venue_name} — {s.time}{fmt} [{s.date_code}] — {cats}")
+
+    # Always show the movie and theatre being checked
+    print(f"\n  🎬 Movie: {movie_info['name']}  ({movie_info['language']})")
+    print(f"  🎭 Theatre: {movie_info.get('theatre', 'Not specified')}")
 
     print("\n  Done.")
 
