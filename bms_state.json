@@ -240,17 +240,49 @@
       "price": "60.00",
       "status": "0"
     },
-    "CBMC|9603|20260720|NORMAL": {
+    "CBMC|9671|20260720|NORMAL": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
-      "time": "12:00 PM",
+      "time": "11:00 AM",
       "date": "20260720",
       "cat": "NORMAL",
       "price": "61.74",
-      "status": "0"
+      "status": "2"
+    },
+    "CBMC|9671|20260720|EXECUTIVE": {
+      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+      "time": "11:00 AM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "CBMC|9603|20260720|NORMAL": {
+      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+      "time": "01:00 PM",
+      "date": "20260720",
+      "cat": "NORMAL",
+      "price": "61.74",
+      "status": "2"
     },
     "CBMC|9603|20260720|EXECUTIVE": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
-      "time": "12:00 PM",
+      "time": "01:00 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "CBMC|9672|20260720|NORMAL": {
+      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+      "time": "02:30 PM",
+      "date": "20260720",
+      "cat": "NORMAL",
+      "price": "61.74",
+      "status": "2"
+    },
+    "CBMC|9672|20260720|EXECUTIVE": {
+      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+      "time": "02:30 PM",
       "date": "20260720",
       "cat": "EXECUTIVE",
       "price": "210.98",
@@ -272,6 +304,22 @@
       "price": "210.98",
       "status": "3"
     },
+    "CBMC|9673|20260720|NORMAL": {
+      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+      "time": "06:00 PM",
+      "date": "20260720",
+      "cat": "NORMAL",
+      "price": "61.74",
+      "status": "2"
+    },
+    "CBMC|9673|20260720|EXECUTIVE": {
+      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+      "time": "06:00 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "210.98",
+      "status": "3"
+    },
     "CBMC|9605|20260720|NORMAL": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
       "time": "07:00 PM",
@@ -283,6 +331,22 @@
     "CBMC|9605|20260720|EXECUTIVE": {
       "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
       "time": "07:00 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "CBMC|9674|20260720|NORMAL": {
+      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+      "time": "09:30 PM",
+      "date": "20260720",
+      "cat": "NORMAL",
+      "price": "61.74",
+      "status": "2"
+    },
+    "CBMC|9674|20260720|EXECUTIVE": {
+      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+      "time": "09:30 PM",
       "date": "20260720",
       "cat": "EXECUTIVE",
       "price": "210.98",
@@ -454,7 +518,7 @@
       "date": "20260720",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "2"
+      "status": "1"
     },
     "PCAN|41564|20260720|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
