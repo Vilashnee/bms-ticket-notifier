@@ -2,7 +2,7 @@ name: BMS Ticket Checker
 
 on:
   schedule:
-    # Every 10 minutes
+    # Every 10 minutes - re-enabled
     - cron: '*/10 * * * *'
   workflow_dispatch:
 
