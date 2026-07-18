@@ -2,8 +2,8 @@ name: BMS Ticket Checker
 
 on:
   schedule:
-    # TEST: every minute
-    - cron: '* * * * *'
+    # Every 10 minutes
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 concurrency:
@@ -12,7 +12,7 @@ concurrency:
 
 jobs:
   check-tickets:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     timeout-minutes: 5
 
     permissions:
