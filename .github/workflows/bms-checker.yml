@@ -2,7 +2,6 @@ name: BMS Ticket Checker
 
 on:
   schedule:
-    # Every 10 minutes (may be paused by GitHub)
     - cron: '*/10 * * * *'
   workflow_dispatch:
   repository_dispatch:
