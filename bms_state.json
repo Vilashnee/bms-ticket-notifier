@@ -1,5 +1,21 @@
 {
   "shows": {
+    "PCAN|41837|20260720|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "10:00 AM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PCAN|41837|20260720|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "10:00 AM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "3"
+    },
     "PCAN|41562|20260720|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
       "time": "12:05 PM",
@@ -62,7 +78,7 @@
       "date": "20260720",
       "cat": "CLASSIC",
       "price": "61.74",
-      "status": "3"
+      "status": "2"
     },
     "PVHR|39295|20260720|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -94,7 +110,7 @@
       "date": "20260720",
       "cat": "CLASSIC",
       "price": "61.74",
-      "status": "3"
+      "status": "2"
     },
     "PVHR|39296|20260720|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -125,6 +141,86 @@
       "time": "06:30 PM",
       "date": "20260720",
       "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "2"
+    },
+    "PVES|31697|20260720|ELITE": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "11:50 AM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVES|31697|20260720|BUDGET": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "11:50 AM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PVES|31694|20260720|ELITE": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "02:50 PM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVES|31694|20260720|BUDGET": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "02:50 PM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PVES|31710|20260720|ELITE": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "03:20 PM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVES|31710|20260720|BUDGET": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "03:20 PM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PVES|31707|20260720|ELITE": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "06:15 PM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVES|31707|20260720|BUDGET": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "06:15 PM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PVES|31699|20260720|ELITE": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "06:45 PM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVES|31699|20260720|BUDGET": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "06:45 PM",
+      "date": "20260720",
+      "cat": "BUDGET",
       "price": "61.74",
       "status": "3"
     },
@@ -288,70 +384,6 @@
       "price": "61.74",
       "status": "0"
     },
-    "PBRM|22301|20260720|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "03:05 PM",
-      "date": "20260720",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PBRM|22301|20260720|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "03:05 PM",
-      "date": "20260720",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "0"
-    },
-    "PBRM|22302|20260720|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "06:40 PM",
-      "date": "20260720",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PBRM|22302|20260720|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "06:40 PM",
-      "date": "20260720",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "0"
-    },
-    "FMCN|103427|20260720|SILVER": {
-      "venue": "INOX National: Arcot Road",
-      "time": "12:10 PM",
-      "date": "20260720",
-      "cat": "SILVER",
-      "price": "210.98",
-      "status": "3"
-    },
-    "FMCN|103427|20260720|PREMIERE": {
-      "venue": "INOX National: Arcot Road",
-      "time": "12:10 PM",
-      "date": "20260720",
-      "cat": "PREMIERE",
-      "price": "66.74",
-      "status": "2"
-    },
-    "FMCN|103429|20260720|SILVER": {
-      "venue": "INOX National: Arcot Road",
-      "time": "06:35 PM",
-      "date": "20260720",
-      "cat": "SILVER",
-      "price": "210.98",
-      "status": "3"
-    },
-    "FMCN|103429|20260720|PREMIERE": {
-      "venue": "INOX National: Arcot Road",
-      "time": "06:35 PM",
-      "date": "20260720",
-      "cat": "PREMIERE",
-      "price": "66.74",
-      "status": "2"
-    },
     "PVSR|25937|20260720|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
       "time": "11:30 AM",
@@ -447,6 +479,70 @@
       "cat": "BUDGET",
       "price": "61.74",
       "status": "3"
+    },
+    "PBRM|22301|20260720|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "03:05 PM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PBRM|22301|20260720|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "03:05 PM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PBRM|22302|20260720|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "06:40 PM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PBRM|22302|20260720|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "06:40 PM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "0"
+    },
+    "FMCN|103427|20260720|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "12:10 PM",
+      "date": "20260720",
+      "cat": "SILVER",
+      "price": "210.98",
+      "status": "3"
+    },
+    "FMCN|103427|20260720|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "12:10 PM",
+      "date": "20260720",
+      "cat": "PREMIERE",
+      "price": "66.74",
+      "status": "2"
+    },
+    "FMCN|103429|20260720|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "06:35 PM",
+      "date": "20260720",
+      "cat": "SILVER",
+      "price": "210.98",
+      "status": "3"
+    },
+    "FMCN|103429|20260720|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "06:35 PM",
+      "date": "20260720",
+      "cat": "PREMIERE",
+      "price": "66.74",
+      "status": "2"
     },
     "PSKL|21848|20260720|PRIME": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
