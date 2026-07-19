@@ -38,7 +38,7 @@
       "date": "20260720",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "2"
+      "status": "1"
     },
     "PCAN|41563|20260720|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -238,7 +238,7 @@
       "date": "20260720",
       "cat": "BUDGET",
       "price": "61.74",
-      "status": "3"
+      "status": "0"
     },
     "PVES|31710|20260720|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -286,7 +286,7 @@
       "date": "20260720",
       "cat": "BUDGET",
       "price": "61.74",
-      "status": "3"
+      "status": "1"
     },
     "PABC|20257|20260720|PRIME": {
       "venue": "PVR: Aerohub, Chennai",
@@ -640,22 +640,6 @@
       "price": "61.74",
       "status": "2"
     },
-    "PSKL|21848|20260720|PRIME": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
-      "time": "06:40 PM",
-      "date": "20260720",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PSKL|21848|20260720|CLASSIC": {
-      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
-      "time": "06:40 PM",
-      "date": "20260720",
-      "cat": "CLASSIC",
-      "price": "66.74",
-      "status": "0"
-    },
     "INPR|63425|20260720|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
       "time": "11:30 AM",
@@ -687,6 +671,38 @@
       "cat": "BUDGET",
       "price": "61.74",
       "status": "1"
+    },
+    "INPR|63426|20260720|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "06:20 PM",
+      "date": "20260720",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INPR|63426|20260720|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "06:20 PM",
+      "date": "20260720",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "1"
+    },
+    "PSKL|21848|20260720|PRIME": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "06:40 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PSKL|21848|20260720|CLASSIC": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "06:40 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "66.74",
+      "status": "0"
     },
     "PVPZ|35545|20260720|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -738,12 +754,12 @@
     }
   },
   "dates": {
-    "20260719": "AVAILABLE",
     "20260720": "BOOKABLE",
     "20260721": "AVAILABLE",
     "20260722": "AVAILABLE",
     "20260723": "NOT_OPEN",
     "20260724": "NOT_OPEN",
-    "20260725": "NOT_OPEN"
+    "20260725": "NOT_OPEN",
+    "20260726": "NOT_OPEN"
   }
 }
